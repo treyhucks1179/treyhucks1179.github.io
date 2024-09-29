@@ -17,3 +17,9 @@ Programming and Writing are current interests of mine and I am pursuing both at 
 I have found programming to be both **difficult** **_AND_** **rewarding**. I am excited to enter the software development field. 
 
 ## Recommended Sites
+
+* [**HorrorBabble**](https://www.youtube.com/@HorrorBabble)  
+	This youtube channel does readings of horror stories from early 20th century pulp magazines as well as original stories written by their team and community. The readings are well produced with a skilled narrator who imbues much of the readings with macabre acting.  
+
+* [**W3Schools**](https://www.w3schools.com/)  
+	W3schools is an excellent source of tutorials for various programming languages and software development technologies. The website is easy to navigate, allowing you to select the specific language you want to learn and work through an ordered progression of topics related to it. The website also has a simple built in editor allowing you play around with the concepts as you read about them.
