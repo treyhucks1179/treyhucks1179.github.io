@@ -8,3 +8,10 @@
 ** Download and install GitHub Desktop
 ** Log in with the same GitHub account which links the machine to the online account
 ** Clone the repository to my desktop, saved to a local folder on my machine.
+
+  #About Me  
+  
+  ##My Interests  
+  
+  ##Recommended Websites  
+  
