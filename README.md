@@ -1,7 +1,9 @@
 # treyhucks1179.github.io
 
 # About Me
-* Albert Walter Hucks III 
+* Trey Hucks 
+* Wildland Firefighter
+* Born and Raised in N.C.
 * awhucks@my.waketech.edu
 * This repository serves as the final product of a lab meant to familiarize students with GitHub
 * This repository was created by the following steps
