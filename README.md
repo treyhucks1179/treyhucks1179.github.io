@@ -11,6 +11,7 @@
 	* Log in with the same GitHub account which links the machine to the online account
 	** Clone the repository to my desktop, saved to a local folder on my machine.
 
-## My Interests
-* I am currently taking
+## My Interests  
+Programming and Writing are current interests of mine and I am pursuing both at Wake Tech. I am _fascinated_ by writing, and would like to create cosmic horror tales after my favorite authors: **H.P. Lovecraft**, **Robert E. Howard**, and **Jeff Van Der Meer**.
+
 ## Recommended Sites
