@@ -18,7 +18,7 @@ I have found programming to be both **difficult** **_AND_** **rewarding**. I am 
 
 ## Recommended Sites
 
-* [**HorrorBabble**](https://www.youtube.com/@HorrorBabble)  
+* [**HorrorBabble**](https://www.youtube.com/@HorrorBabble)![](https://yt3.googleusercontent.com/ytc/AIdro_kmOP0fIZp6DxsZfSVsUxk5j6k5twsGRWrR3Juk8PCMVz0=s160-c-k-c0x00ffffff-no-rj)  
 	This youtube channel does readings of horror stories from early 20th century pulp magazines as well as original stories written by their team and community. The readings are well produced with a skilled narrator who imbues much of the readings with macabre acting.  
 
 * [**W3Schools**](https://www.w3schools.com/)  
