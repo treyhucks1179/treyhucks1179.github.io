@@ -12,6 +12,8 @@
 	** Clone the repository to my desktop, saved to a local folder on my machine.
 
 ## My Interests  
-Programming and Writing are current interests of mine and I am pursuing both at Wake Tech. I am _fascinated_ by writing, and would like to create cosmic horror tales after my favorite authors: **H.P. Lovecraft**, **Robert E. Howard**, and **Jeff Van Der Meer**.
+Programming and Writing are current interests of mine and I am pursuing both at Wake Tech. I am _fascinated_ by writing, and aim to author cosmic horror tales like some of my favorite authors: **H.P. Lovecraft**, **Robert E. Howard**, and **Jeff Van Der Meer**.  
+
+I have found programming to be both **difficult** **_and_** **rewarding**. I am excited to enter the software development field. 
 
 ## Recommended Sites
